@@ -1,0 +1,31 @@
+Order_ID,Customer_Name,Email,Region,Product,Category,Quantity,Unit_Price,Order_Date,Status
+1001,Alice Johnson,alice@example.com,North,Laptop,Electronics,2,45000,2024-01-05,Completed
+1002,Bob Smith,bob@example.com,South,Keyboard,Accessories,5,1500,2024-01-08,Completed
+1003,Alice Johnson,alice@example.com,North,Laptop,Electronics,2,45000,2024-01-05,Completed
+1004,Charlie D,charlie@,West,Monitor,Electronics,,18000,2024-01-12,Pending
+1005,Deepa Nair,deepa@example.com,East,Mouse,Accessories,3,800,2024-01-15,Completed
+1006,Rahul Mehta,rahul@example.com,north,Headphones,Accessories,1,3500,15-01-2024,Completed
+1007,Sneha Rao,sneha@example.com,South,Laptop,Electronics,1,45000,2024-01-20,cancelled
+1008,,priya@example.com,East,Tablet,Electronics,2,22000,2024-01-22,Completed
+1009,Vikas Kumar,vikas@example.com,West,Charger,Accessories,10,600,2024-01-25,Completed
+1010,Bob Smith,bob@example.com,South,Keyboard,Accessories,5,1500,2024-01-08,Completed
+1011,Ananya Sen,ananya@example.com,East,Monitor,Electronics,1,18000,2024-02-01,Completed
+1012,Ravi Iyer,ravi@example.com,South,Laptop,Electronics,0,45000,2024-02-03,Pending
+1013,Meena Shah,meena@example.com,WEST,Headphones,Accessories,2,3500,2024-02-07,Completed
+1014,Arjun Pillai,arjun@example.com,North,Tablet,Electronics,1,22000,2024-02-10,Completed
+1015,Sunita Verma,sunita@example.com,East,Mouse,accessories,4,800,2024-02-12,Completed
+1016,Karan Bhat,karan@example.com,South,Charger,Accessories,6,600,10-02-2024,Completed
+1017,Pooja Desai,pooja@example.com,North,Laptop,Electronics,1,45000,2024-02-18,COMPLETED
+1018,Rohit Nanda,rohit@example.com,West,Monitor,Electronics,2,18000,2024-02-20,Completed
+1019,Divya Patel,divya@example.com,East,Keyboard,Accessories,3,1500,2024-02-22,Completed
+1020,Nikhil Joshi,nikhil@example.com,North,Tablet,Electronics,1,22000,2024-02-25,completed
+1021,Alicia J,alice2@example.com,South,Mouse,Accessories,2,800,2024-03-01,Completed
+1022,Tejas Kulkarni,tejas@example.com,West,Headphones,Accessories,1,3500,2024-03-05,Completed
+1023,Pallavi Rao,pallavi@example.com,East,Laptop,Electronics,1,45000,2024-03-08,Completed
+1024,Sameer Bhatt,sameer@example.com,North,Charger,Accessories,8,600,2024-03-10,Pending
+1025,Preeti Sinha,preeti@example.com,South,Monitor,Electronics,,18000,2024-03-12,Completed
+1026,Vikram Sharma,vikram@example.com,EAST,Tablet,electronics,2,22000,12-03-2024,Completed
+1027,Harsha Gowda,harsha@example.com,West,Mouse,Accessories,5,800,2024-03-18,Cancelled
+1028,Shruti Misra,shruti@example.com,North,Keyboard,Accessories,4,1500,2024-03-20,Completed
+1029,Abhishek Das,abhishek@example.com,South,Laptop,Electronics,1,45000,2024-03-22,Completed
+1030,Lavanya Nair,lavanya@example.com,East,Headphones,Accessories,2,3500,2024-03-25,Completed
